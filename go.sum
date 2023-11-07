@@ -21,6 +21,8 @@ github.com/BurntSushi/toml v1.3.2/go.mod h1:CxXYINrC8qIiEnFrOxCa7Jy5BFHlXnUU2pbi
 github.com/BurntSushi/xgb v0.0.0-20160522181843-27f122750802/go.mod h1:IVnqGOEym/WlBOVXweHU+Q+/VP0lqqI8lqeDx9IjBqo=
 github.com/andybalholm/brotli v1.0.5 h1:8uQZIdzKmjc/iuPu7O2ioW48L81FgatrcpfFmiq/cCs=
 github.com/andybalholm/brotli v1.0.5/go.mod h1:fO7iG3H7G2nSZ7m0zPUDn85XEX2GTukHGRSepvi9Eig=
+github.com/andybalholm/brotli v1.0.6 h1:Yf9fFpf49Zrxb9NlQaluyE92/+X7UVHlhMNJN2sxfOI=
+github.com/andybalholm/brotli v1.0.6/go.mod h1:fO7iG3H7G2nSZ7m0zPUDn85XEX2GTukHGRSepvi9Eig=
 github.com/benbjohnson/clock v1.1.0/go.mod h1:J11/hYXuz8f4ySSvYwY0FKfm+ezbsZBKZxNJlLklBHA=
 github.com/benbjohnson/clock v1.3.0 h1:ip6w0uFQkncKQ979AypyG0ER7mqUSBdKLOgAle/AT8A=
 github.com/beorn7/perks v1.0.1 h1:VlbKKnNfV8bJzeqoa4cOKqO6bYr3WgKZxO8Z16+hsOM=
@@ -29,6 +31,8 @@ github.com/bodgit/plumbing v1.3.0 h1:pf9Itz1JOQgn7vEOE7v7nlEfBykYqvUYioC61TwWCFU
 github.com/bodgit/plumbing v1.3.0/go.mod h1:JOTb4XiRu5xfnmdnDJo6GmSbSbtSyufrsyZFByMtKEs=
 github.com/bodgit/sevenzip v1.4.3 h1:46Rb9vCYdpceC1U+GIR0bS3hP2/Xv8coKFDeLJySV/A=
 github.com/bodgit/sevenzip v1.4.3/go.mod h1:F8n3+0CwbdxqmNy3wFeOAtanza02Ur66AGfs/hbYblI=
+github.com/bodgit/sevenzip v1.4.4 h1:cI/PfeqDXESY6mwBn7Q9LyxlVkHaOPyaDev3mR7qzSA=
+github.com/bodgit/sevenzip v1.4.4/go.mod h1:G/5VOeQBGI2TsdyF88xpszj2SRvvD6srHdq9gRBQ9Is=
 github.com/bodgit/windows v1.0.1 h1:tF7K6KOluPYygXa3Z2594zxlkbKPAOvqr97etrGNIz4=
 github.com/bodgit/windows v1.0.1/go.mod h1:a6JLwrB4KrTR5hBpp8FI9/9W9jJfeQ2h4XDXU74ZCdM=
 github.com/census-instrumentation/opencensus-proto v0.2.1/go.mod h1:f6KPmirojxKA12rnyqOA5BBL4O983OfeGPqjHWSTneU=
@@ -136,6 +140,8 @@ github.com/kdomanski/iso9660 v0.4.0/go.mod h1:OxUSupHsO9ceI8lBLPJKWBTphLemjrCQY8
 github.com/kisielk/gotool v1.0.0/go.mod h1:XhKaO+MFFWcvkIS/tQcRk01m1F5IRFswLeQ+oQHNcck=
 github.com/klauspost/compress v1.16.7 h1:2mk3MPGNzKyxErAw8YaohYh69+pa4sIQSC0fPGCFR9I=
 github.com/klauspost/compress v1.16.7/go.mod h1:ntbaceVETuRiXiv4DpjP66DpAtAGkEQskQzEyD//IeE=
+github.com/klauspost/compress v1.17.2 h1:RlWWUY/Dr4fL8qk9YG7DTZ7PDgME2V4csBXA8L/ixi4=
+github.com/klauspost/compress v1.17.2/go.mod h1:ntbaceVETuRiXiv4DpjP66DpAtAGkEQskQzEyD//IeE=
 github.com/kr/pretty v0.1.0/go.mod h1:dAy3ld7l9f0ibDNOQOHHMYYIIbhfbHSm3C4ZsoJORNo=
 github.com/kr/pretty v0.3.1 h1:flRD4NNwYAUpkphVc1HcthR4KEIFJ65n8Mw5qdRn3LE=
 github.com/kr/pty v1.1.1/go.mod h1:pFQYn66WHrOpPYNljwOMqo10TkYh1fy3cYio2l3bCsQ=
@@ -323,6 +329,8 @@ golang.org/x/text v0.3.7/go.mod h1:u+2+/6zg+i71rQMx5EYifcz6MCKuco9NR6JIITiCfzQ=
 golang.org/x/text v0.7.0/go.mod h1:mrYo+phRRbMaCq/xk9113O4dZlRixOauAjOtrjsXDZ8=
 golang.org/x/text v0.12.0 h1:k+n5B8goJNdU7hSvEtMUz3d1Q6D/XW4COJSJR6fN0mc=
 golang.org/x/text v0.12.0/go.mod h1:TvPlkZtksWOMsz7fbANvkp4WM8x/WCo/om8BMLbz+aE=
+golang.org/x/text v0.14.0 h1:ScX5w1eTa3QqT8oi6+ziP7dTV1S2+ALU0bI+0zXKWiQ=
+golang.org/x/text v0.14.0/go.mod h1:18ZOQIKpY8NJVqYksKHtTdi31H5itFRjB5/qKTNYzSU=
 golang.org/x/time v0.0.0-20181108054448-85acf8d2951c/go.mod h1:tRJNPiyCQ0inRvYxbN9jk5I+vvW/OXSQhTDSoE431IQ=
 golang.org/x/time v0.0.0-20190308202827-9d24e82272b4/go.mod h1:tRJNPiyCQ0inRvYxbN9jk5I+vvW/OXSQhTDSoE431IQ=
 golang.org/x/tools v0.0.0-20180917221912-90fa682c2a6e/go.mod h1:n7NCudcB/nEzxVGmLbDWY5pfWTLqBcC2KZ6jyYvM4mQ=
@@ -374,6 +382,8 @@ golift.io/xtractr v0.2.3-0.20230901194307-8180fa3a896e h1:qJbPh4Pvv7nHQXhoeK5LCK
 golift.io/xtractr v0.2.3-0.20230901194307-8180fa3a896e/go.mod h1:nKvdcaQY6hfeKIB+dm3Yqts5E78z4Ow1wa9nV5Iq/lg=
 golift.io/xtractr v0.2.3-0.20230904223736-8f3225005d9e h1:dvOZX3tN1zBVgYMh2pe0h/7wxJwtMTSjWOgHCOUIWZA=
 golift.io/xtractr v0.2.3-0.20230904223736-8f3225005d9e/go.mod h1:nKvdcaQY6hfeKIB+dm3Yqts5E78z4Ow1wa9nV5Iq/lg=
+golift.io/xtractr v0.2.3-0.20231107000408-1c2fe2c5aea7 h1:nFkdNh4UVf8+LdN590cNuXoDHh6JtetgYpnTu38ieCM=
+golift.io/xtractr v0.2.3-0.20231107000408-1c2fe2c5aea7/go.mod h1:9AsBfr7hr94nbm1zOsKsUUC7qR+OqiyprwTus5ZP55Y=
 google.golang.org/api v0.4.0/go.mod h1:8k5glujaEP+g9n7WNsDg8QP6cUVNI86fCNMcbazEtwE=
 google.golang.org/api v0.7.0/go.mod h1:WtwebWUNSVBH/HAw79HIFXZNqEvBhG+Ra+ax0hx3E3M=
 google.golang.org/api v0.8.0/go.mod h1:o4eAsZoiT+ibD93RtjEohWalFOjRDx6CVaqeizhEnKg=
